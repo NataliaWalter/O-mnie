@@ -6,5 +6,19 @@ Praktyczny kurs testowania oprogramowania (Udemy 2022)
 Postman od podstaw (Udemy 2022
 
 SQL (W3Schools)
+# Znojomość podstawowa
+SQL
+Postman
+TestLink
+Jira
+Devtools
+PickPick
+Sharex
+GoFullPage
+JSON Viewer
+# Podstawowe umiejetności techniczne 
+Testowanie oprogramowania
+Pisanie przypadków testowych 
+Raportowanie błędów
 
 
