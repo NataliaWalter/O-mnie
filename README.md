@@ -3,10 +3,10 @@ Cześć! Nazywam się Natalia Walter, jestem kursantką (Udemy) z zakresu testow
 # Kursy
 Praktyczny kurs testowania oprogramowania (Udemy 2022)
 
-Postman od podstaw (Udemy 2022
+Postman od podstaw (Udemy 2022)
 
 SQL (W3Schools)
-# Znojomość podstawowa
+# Znajomość podstawowa
 SQL
 
 Postman
